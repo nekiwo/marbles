@@ -1,5 +1,5 @@
 # Marbles
-A multiplayer Unity game I made in 2022
+A Unity game I made in 2022, with socket.io multiplayer from scratch. Working and up at https://nekiwo.dev/marbles
 ## Notes
 This game is a mess
 I only attempted to run on my machine with 
